@@ -5,6 +5,8 @@
     box-sizing: border-box;
 
 }
+
+/* banner css start*/
 .banner{
     height: 808px;
     width: 1600px;
@@ -16,9 +18,15 @@
     padding-right: 250px;
     padding-top: 250px;
     font-style:inherit;
+   
     
       
 }
+/* banner css end*/
+
+
+
+/* failures section css  start*/
 .scond_banner{
     height: 800px;
     width: 1600px;
@@ -41,6 +49,10 @@
     
     float:right;
 }
+/* failures section css  start*/
+
+
+/* My_plane section css  start*/
 .My_plane{
     width: 1600px;
     height: 400px;
@@ -55,7 +67,13 @@
 
 
 }
+/* My_plane section css  end*/
+
+
+
+/* Gredient_style css start */
 .Gredient_style{
+    border-radius: 10px;
     width: 1130px;
     height: 300px;
     margin: 0 auto;
@@ -66,6 +84,9 @@
     padding-top: 50px;
     padding-left: 150px;
 }
+/* Gredient_style css end */
+
+/* foter section css start */
 .Subscribe{
     text-align: end;
 }
@@ -87,6 +108,9 @@
     margin: 0 auto ;
    
 }
+/* foter section css end */
+
+/* My_research section css start */
 .My_research{
     width: 1600px;
     height: 600px;
@@ -102,3 +126,4 @@
     float: left;
 
 }
+/* My_research section css start */
